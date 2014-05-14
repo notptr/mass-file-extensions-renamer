@@ -1,0 +1,9 @@
+This program made for renaming file extensions.
+I had a quakeworld server with many maps. The server did not like .BSP
+So I made a python 3 script that would change .BSP to .bsp but I made it little be more flexible
+it can do any file extensions
+the file extension has to be the same as the original at least.
+
+qmmewname.py -p path to the files -e .BSP -ne .bsp
+
+This one will only work with Linux
